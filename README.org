@@ -1,3 +1,12 @@
-#+TITLE: Research Howto
+#+TITLE: What is Research? : A Research Howto
 #+Author: Felipe Banados Schwerter
 
+* Intro
+* Notes from Claudio Gutierrez' 
+  During my Masters I attended Claudio Gutierrez' wonderful "Research
+  in Computer Science" course
+  [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/][(In Spanish)]].  All of the readings from that course are useful.
+
+* Other relevant reads
+  - S. Keshav (UWaterloo), [[https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to Read a Paper]]
+  - 
