@@ -1,5 +1,5 @@
 #+TITLE: What is Research? : A Research Howto
-#+Author: Felipe Banados Schwerter
+#+Author: Felipe Bañados Schwerter
 
 * Intro
 * Notes from Claudio Gutierrez' 
