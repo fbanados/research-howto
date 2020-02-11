@@ -2,7 +2,7 @@
 #+Author: Felipe Bañados Schwerter
 
 * Intro
-* Notes from Claudio Gutierrez' 
+* Notes from Claudio Gutierrez
   During my Masters I attended Claudio Gutierrez' wonderful "Research
   in Computer Science" course
   [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/][(In Spanish)]].  All of the readings from that course are useful.
