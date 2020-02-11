@@ -9,4 +9,5 @@
 
 * Other relevant reads
   - S. Keshav (UWaterloo), [[https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to Read a Paper]]
-  - 
+  - Matt Might's blog has plenty of relevant posts.
+
