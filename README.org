@@ -11,3 +11,7 @@
   - S. Keshav (UWaterloo), [[https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to Read a Paper]]
   - Matt Might's blog has plenty of relevant posts.
 
+* From https://www.youtube.com/watch?v=U6Q9Oq3JkuA
+  - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
+  - https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf (or alternatively, https://web.archive.org/web/20191212084053/https://tex.loria.fr/typographie/mathwriting.pdf )
+  - Look at Knuth's course https://www.youtube.com/playlist?list=PLABJEFgj0PWV22nvw3YKXvR_n1NB6fn5D
