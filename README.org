@@ -15,3 +15,5 @@
   - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
   - https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf (or alternatively, https://web.archive.org/web/20191212084053/https://tex.loria.fr/typographie/mathwriting.pdf )
   - Look at Knuth's course https://www.youtube.com/playlist?list=PLABJEFgj0PWV22nvw3YKXvR_n1NB6fn5D
+  - You and your research : https://www.youtube.com/watch?v=a1zDuOPkMSw
+  
