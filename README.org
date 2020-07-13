@@ -16,4 +16,10 @@
   - https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf (or alternatively, https://web.archive.org/web/20191212084053/https://tex.loria.fr/typographie/mathwriting.pdf )
   - Look at Knuth's course https://www.youtube.com/playlist?list=PLABJEFgj0PWV22nvw3YKXvR_n1NB6fn5D
   - You and your research : https://www.youtube.com/watch?v=a1zDuOPkMSw
+** Recommended readings
+  - Halmos, P. R. [[https://www.math.uh.edu/~tomforde/Books/Halmos-How-To-Write.pdf][How to Write Mathematics]]
+  - Hamming, Richard. [[http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf][You and your research]] (or [[https://link.springer.com/chapter/10.1007%2F978-3-642-01156-6_6][Here]]
+  - C.A.R. Hoare, [[https://dl.acm.org/doi/book/10.5555/63445][Envoi (p. 389ss]]
+  - George Orwell, [[https://www.orwell.ru/library/essays/politics/english/e_polit][Politics and the English Language]] 
+  - Edward Tufte, [[https://www.edwardtufte.com/tufte/books_vdqi][The Visual Display of Quantitative Information]]
   
