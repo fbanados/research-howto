@@ -10,6 +10,7 @@
 * Other relevant reads
   - S. Keshav (UWaterloo), [[https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to Read a Paper]]
   - Matt Might's blog has plenty of relevant posts.
+  - [[https://shomir.net/scholarly_publishing.html][Guide for Publishing in Conferences and Attending Them]]
 
 * From https://www.youtube.com/watch?v=U6Q9Oq3JkuA
   - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
