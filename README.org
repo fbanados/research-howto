@@ -42,7 +42,7 @@
 
    - [[http://www.jlakes.org/ch/web/The-elements-of-style.pdf][The elements of style, by William Strunk Jr.]]
    - [[https://www.amazon.com/gp/product/0205605354?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0205605354][Style: The Basics of Clarity and Grace, by Joseph M. Williams]]
-   - [[http://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/][The Day You Became a Better Writer, by Scott Adams]] (also, see [[https://medium.com/@scyrus89/the-day-you-became-an-academic-writer-2706ae01b2d1][my sarcastic adaptation for academic writing] for what /not/ to do)
+   - [[http://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/][The Day You Became a Better Writer, by Scott Adams]] (also, see [[https://medium.com/@scyrus89/the-day-you-became-an-academic-writer-2706ae01b2d1][my sarcastic adaptation for academic writing]] for what /not/ to do)
    - [[https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing][The Science of Scientific Writing, by George Gopen and Judith Swan]] (contribution from [[https://twitter.com/daepstein][Dan Epstein]])
 
 ** Sauvik’s thoughts
