@@ -24,3 +24,46 @@
   - George Orwell, [[https://www.orwell.ru/library/essays/politics/english/e_polit][Politics and the English Language]] 
   - Edward Tufte, [[https://www.edwardtufte.com/tufte/books_vdqi][The Visual Display of Quantitative Information]]
   
+* From "Resources for academic writing in HCI"
+  This is from a medium post.  I don't trust the future of the medium paywall, so the I copy the links here:
+  [[https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f]]
+    
+  Here’s a few useful resources I’ve come across for learning how to write well.
+
+** Academic / technical writing in HCI (many of these cross-reference each other)
+
+   - [[https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf][Catchy Titles Are Good: But Avoid Being Cute, by Jake Wobbrock]]
+   - [[https://faculty.washington.edu/ajko/advice#goodpaper][How do I write a good research paper, by Amy Ko]]
+   - [[http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/][3 shell scripts to improve your writing, by Matt Might]]
+   - [[http://pgbovine.net/how-to-write-hci-research-paper.htm][How to write a good HCI research paper, by Phillip Guo]]
+   - [[http://yatani.jp/teaching/doku.php?id=hcistats:start][Statistical methods for HCI research, by Koji Yatani]] (when you are unsure on how to report results from statistical tests)
+
+** General writing
+
+   - [[http://www.jlakes.org/ch/web/The-elements-of-style.pdf][The elements of style, by William Strunk Jr.]]
+   - [[https://www.amazon.com/gp/product/0205605354?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0205605354][Style: The Basics of Clarity and Grace, by Joseph M. Williams]]
+   - [[http://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/][The Day You Became a Better Writer, by Scott Adams]] (also, see [[https://medium.com/@scyrus89/the-day-you-became-an-academic-writer-2706ae01b2d1][my sarcastic adaptation for academic writing] for what /not/ to do)
+   - [[https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing][The Science of Scientific Writing, by George Gopen and Judith Swan]] (contribution from [[https://twitter.com/daepstein][Dan Epstein]])
+
+** Sauvik’s thoughts
+
+   1. The best way to improve your writing is with [[https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice][deliberate practice]]. The second best way is to read well-written papers.
+   2. The upshot of all of these resources? Be clear, concise, and honest.
+   3. Set aside time for writing every day. Writer’s block is best overcome by routine. 15 minutes will do; the more, the better.
+   4. Start a blog and write regularly.
+
+      - Blog writing shortens the feedback loop and helps you improve faster than writing full papers.
+      - Don’t perfect your blog posts.
+      - Your blog does not (only) have to be about your research.
+      - Your take is unlikely to be unique. Don’t worry about it. Just write.
+      - Sometimes people will thank you for what you’ve written. That’s neat.
+
+   5. On writing academic papers:
+
+      - Writing should occur throughout instead of at the “end” of a project. Writing early will help you spot flaws in your thinking before it’s too late to change.
+      - Draft a short paragraph about your key contributions and motivation before writing the main content of the paper.
+      - Start with an outline. It’s cheaper to modify.
+      - If you’re having trouble building momentum writing prose, start with methodology. It’s easy to write about matter-of-fact things, but it’s hard to write about what your work means and why it’s important.
+      - I /end/ with the introduction, but have it outlined ahead of time. Why? Intros foreshadow the paper. It’s hard to foreshadow something you haven’t written.
+
+Know of other good resources / tips? [[https://twitter.com/scyrusk][Let me know on Twitter]].
