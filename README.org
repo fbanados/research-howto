@@ -3,12 +3,13 @@
 
 * Intro
 * Notes from Claudio Gutierrez
-  During my Masters I attended Claudio Gutierrez' wonderful "Research
+  During my Masters' I attended Claudio Gutierrez' wonderful "Research
   in Computer Science" course
   [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/][(In Spanish)]].  All of the readings from that course are useful.
 
 * Other relevant reads
-  - S. Keshav (UWaterloo), [[https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf][How to Read a Paper]]
+  - S. Keshav (UWaterloo->Cambridge), [[http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf][How to Read a Paper]]
+  - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
   - Matt Might's blog has plenty of relevant posts.
   - [[https://shomir.net/scholarly_publishing.html][Guide for Publishing in Conferences and Attending Them]]
 
