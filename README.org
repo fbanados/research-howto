@@ -25,6 +25,10 @@
   - George Orwell, [[https://www.orwell.ru/library/essays/politics/english/e_polit][Politics and the English Language]] 
   - Edward Tufte, [[https://www.edwardtufte.com/tufte/books_vdqi][The Visual Display of Quantitative Information]]
   
+  
+* From William Bowman
+  - [[https://capra.cs.cornell.edu/styleguide/][Style Guide]]
+  - [[https://bitbucket.org/amiede/classicthesis][Classic thesis TeX template]]
 * From "Resources for academic writing in HCI"
   This is from a medium post.  I don't trust the future of the medium paywall, so the I copy the links here:
   [[https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f]]
