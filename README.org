@@ -12,6 +12,7 @@
   - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
   - Matt Might's blog has plenty of relevant posts.
   - [[https://shomir.net/scholarly_publishing.html][Guide for Publishing in Conferences and Attending Them]]
+  - Science Magazine Carrers' [[https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (Seriously) Read a Paper]].
 
 * From https://www.youtube.com/watch?v=U6Q9Oq3JkuA
   - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
