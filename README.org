@@ -19,7 +19,7 @@
 *** "Science", Short view from philosophy
     - TODO Philosophy of Science (Article by Carlos Pérez Soto)
     - TODO Four essays from "Metascientific Queries" by Mario Bunge, they might be replaceable or complementable with [[https://www.jstor.org/stable/43033380][On method in the Philosophy of Science]], by Mario Bunge
-    - [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/crnkovic.pdf][Gordana Dodig-Crnkovic]]
+    - [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/crnkovic.pdf][Scientific Methods in Computer Science]], Gordana Dodig-Crnkovic
 *** "Science", Short view from economics
     - [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/economics.pdf][The Economics of Industrial Innovation]], Introduction, Ch. Freeman, L. Soete, MIT Press, 1997
     - [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/scan01.pdf][The emergence of a New Techno-economic Paradigm: The Age of Information and Communication Technology]], From "As Time Goes By", Ch. Freeman, F. Louca, Oxford Univ. Press, 2001.
