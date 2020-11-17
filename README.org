@@ -7,6 +7,9 @@
   in Computer Science" course
   [[https://users.dcc.uchile.cl/~cgutierr/cursos/INV/][(In Spanish)]].  All of the readings from that course are useful.
 
+* On Writing
+  - Watch this video by Larry McEnerney on [[https://www.youtube.com/watch?v=vtIzMaLkCaM&t=2551s][The Craft of Writing Effectively]]
+    ([[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf][The handout used in the lecture]]
 * Other relevant reads
   - S. Keshav (UWaterloo->Cambridge), [[http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf][How to Read a Paper]]
   - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
@@ -74,3 +77,9 @@
       - I /end/ with the introduction, but have it outlined ahead of time. Why? Intros foreshadow the paper. It’s hard to foreshadow something you haven’t written.
 
 Know of other good resources / tips? [[https://twitter.com/scyrusk][Let me know on Twitter]].
+
+* On taking notes
+  - [[https://medium.goodnotes.com/three-pitfalls-to-avoid-when-studying-with-a-highlighter-2aa345e1e6eb][How to Study with a Highlighter:  Three Pitfalls You Should Avoid When You Highlight Your Notes]]
+  - [[http://www.thinkartificial.org/web/the-art-of-highlighting/][The Art of Highlighting]]
+  - [[https://medium.goodnotes.com/6-common-note-taking-mistakes-and-what-you-can-do-to-avoid-them-fd86be78482a][6 common note-taking mistakes and what you can do to avoid them]]
+  
