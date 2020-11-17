@@ -9,7 +9,8 @@
 
 * On Writing
   - Watch this video by Larry McEnerney on [[https://www.youtube.com/watch?v=vtIzMaLkCaM&t=2551s][The Craft of Writing Effectively]]
-    ([[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf][The handout used in the lecture]]
+    
+    ([[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf][The handout used in the lecture]])
 * Other relevant reads
   - S. Keshav (UWaterloo->Cambridge), [[http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf][How to Read a Paper]]
   - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
