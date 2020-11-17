@@ -21,7 +21,7 @@
 *** "Science", Short view from economics
     TODO
 *** "Science", Short view from sociology
-    - [[https://www.persee.fr/doc/arss_0335-5322_1976_num_2_2_3454][Le Champ Scientifique]], By Pierre Bourdieu.
+    - [[https://www.persee.fr/doc/arss_0335-5322_1976_num_2_2_3454][Le Champ Scientifique]], By Pierre Bourdieu (1976).
      /Claudio refers to a spanish translation of this work, I have not been able to find an english translation
      of this article.  Instead, you may refer to this related article in english:/
      [[https://doi.org/10.1177/053901847501400602][The specificity of the scientific field and the social conditions of the progress of reason]]
