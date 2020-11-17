@@ -117,4 +117,4 @@ Know of other good resources / tips? [[https://twitter.com/scyrusk][Let me know 
   - [[https://medium.goodnotes.com/three-pitfalls-to-avoid-when-studying-with-a-highlighter-2aa345e1e6eb][How to Study with a Highlighter:  Three Pitfalls You Should Avoid When You Highlight Your Notes]]
   - [[http://www.thinkartificial.org/web/the-art-of-highlighting/][The Art of Highlighting]]
   - [[https://medium.goodnotes.com/6-common-note-taking-mistakes-and-what-you-can-do-to-avoid-them-fd86be78482a][6 common note-taking mistakes and what you can do to avoid them]]
-  
+  - [[https://guides.library.harvard.edu/sixreadinghabits][Interrogating Texts]] (Harvard, CC-BY-NC-SA 4.0 int)
