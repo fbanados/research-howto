@@ -54,7 +54,8 @@
   - Science Magazine Careers' [[https://www.sciencemag.org/careers/2017/05/how-get-most-out-attending-conferences][How to get the most out of attending conferences]].
   
   - [[http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html][Margo's tips on writing a thesis]]
-
+  - [[https://www.cs.cmu.edu/~jrs/sins.html][Three Sins of Authors in Computer Science and Math]]
+  
 * From https://www.youtube.com/watch?v=U6Q9Oq3JkuA
   - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
   - https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf (or alternatively, https://web.archive.org/web/20191212084053/https://tex.loria.fr/typographie/mathwriting.pdf )
