@@ -52,6 +52,8 @@
   - [[https://shomir.net/scholarly_publishing.html][Guide for Publishing in Conferences and Attending Them]]
   - Science Magazine Careers' [[https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (Seriously) Read a Paper]].
   - Science Magazine Careers' [[https://www.sciencemag.org/careers/2017/05/how-get-most-out-attending-conferences][How to get the most out of attending conferences]].
+  
+  - [[http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html][Margo's tips on writing a thesis]]
 
 * From https://www.youtube.com/watch?v=U6Q9Oq3JkuA
   - https://cacm.acm.org/magazines/2009/3/21781-advising-students-for-success/fulltext
