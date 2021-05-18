@@ -45,7 +45,8 @@
   - Watch this video by Larry McEnerney on [[https://www.youtube.com/watch?v=vtIzMaLkCaM&t=2551s][The Craft of Writing Effectively]]
     
     ([[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf][The handout used in the lecture]])
-    
+
+** Ron's recommendations:
   - [[https://www.youtube.com/watch?v=ArSoUNmczIM][ICFP : How to write a great research paper]]
   - [[https://www.youtube.com/watch?v=XpgJ31GKPWI][How to write papers so people can read them]]
   - [[http://www.cse.chalmers.se/edu/year/2018/course/DAT315/How%20to%20write%20a%20paper.pdf][How to write a paper]]
