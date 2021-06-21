@@ -48,7 +48,7 @@ Here's a collection of suggestions from many on how to write papers.
   - [[https://bitbucket.org/amiede/classicthesis][Classic thesis TeX template]]
 
 * From "Resources for academic writing in HCI"
-  This is from a medium post.  I don't trust the future of the medium paywall, so the I copy the links here:
+  This is from a medium post.  I don't trust the future of the medium paywall, so the I transcribe the article contents here.  If you can access it, the original article is available at
   [[https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f]]
     
   Here’s a few useful resources I’ve come across for learning how to write well.
