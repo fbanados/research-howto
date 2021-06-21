@@ -1,0 +1,5 @@
+#+TITLE: Reading papers
+
+  - S. Keshav (UWaterloo->Cambridge), [[http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf][How to Read a Paper]]
+  - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
+  - Science Magazine Careers' [[https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (Seriously) Read a Paper]].
