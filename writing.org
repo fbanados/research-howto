@@ -16,7 +16,7 @@ Here's a collection of suggestions from many on how to write papers.
   - [[https://www.insidehighered.com/advice/2010/07/19/writing-thinking][Writing IS Thinking]]
   - [[https://tomprof.stanford.edu/posting/1503][Tame your Inner Critic]]
 
-* Other suggestions
+* Other curated suggestions
   - S. Keshav (UWaterloo->Cambridge), [[http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf][How to Read a Paper]]
   - [[http://brooker.co.za/blog/2020/05/25/reading.html][Reading Research: A Guide for Software Engineers]]
   - [[https://matt.might.net/#blog][Matt Might's blog]] has plenty of relevant posts.
