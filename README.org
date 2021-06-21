@@ -10,4 +10,5 @@ Felipe.
 * Index
   - [[./cgutierr.org]["Research in Computer Science"]]
   - [[./writing.org][Writing papers]]
+  - [[./reading.org][Reading papers]]
   - [[./notes.org][Taking notes]]
