@@ -9,6 +9,9 @@ Here's a collection of suggestions from many on how to write papers.
     ([[https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf][The handout used in the lecture]])
 
 * Ron's recommendations:
+  - [[https://www.amazon.com/Style-Clarity-Chicago-Writing-Publishing/dp/0226899152/ref=pd_sbs_14_6/135-0620443-7680841?_encoding=UTF8&pd_rd_i=0226899152&pd_rd_r=5e5a7915-878a-4e73-a658-795fec026f78&pd_rd_w=TgpWv&pd_rd_wg=WWWxy&pf_rd_p=cc0adad9-73a2-470d-acda-37a71f8758ba&pf_rd_r=NNEJRWB6ZD93PNG18HDR&psc=1&refRID=NNEJRWB6ZD93PNG18HDR][Williams' Style: Toward Clarity and Grace]] or any of its
+    re-editions like this
+    [[https://www.amazon.ca/Style-Lessons-Clarity-Grace-Canadian/dp/0321248090/ref=sr_1_3?dchild=1&keywords=style+williams&qid=1624334703&sr=8-3][Canadian edition of "Style: Ten Lessons in Clarity and Grace]]
   - [[https://www.youtube.com/watch?v=ArSoUNmczIM][ICFP : How to write a great research paper]]
   - [[https://www.youtube.com/watch?v=XpgJ31GKPWI][How to write papers so people can read them]]
   - [[http://www.cse.chalmers.se/edu/year/2018/course/DAT315/How%20to%20write%20a%20paper.pdf][How to write a paper]]
