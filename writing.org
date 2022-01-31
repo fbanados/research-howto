@@ -50,6 +50,9 @@ Here's a collection of suggestions from many on how to write papers.
   - [[https://capra.cs.cornell.edu/styleguide/][Style Guide]]
   - [[https://bitbucket.org/amiede/classicthesis][Classic thesis TeX template]]
 
+* From Twitter
+  - [[https://jamesrwilcox.com/runtime.html][James Wilcox on "Runtime/Run-time/Run time"]]
+
 * From "Resources for academic writing in HCI"
   This is from a medium post.  I don't trust the future of the medium paywall, so the I transcribe the article contents here.  If you can access it, the original article is available at
   [[https://medium.com/gt-ups-course/resources-for-academic-writing-in-hci-82a27249cb5f]]
