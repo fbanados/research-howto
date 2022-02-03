@@ -12,3 +12,6 @@ Felipe.
   - [[./writing.org][Writing papers]]
   - [[./reading.org][Reading papers]]
   - [[./notes.org][Taking notes]]
+* Other pointers
+  - [[http://www.raulpacheco.org/resources/reading-notes/][Raul Pacheco's reading notes]]
+  
